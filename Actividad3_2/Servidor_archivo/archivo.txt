@@ -1,0 +1,1 @@
+Y finalmente este es otro texto distinto para el archivo “archivo.txt”.
