@@ -8,12 +8,15 @@ El resultado se puede apreciar en la siguiente captura de pantalla:
 
 ![captura OrdenarNumeros](https://github.com/tfendo/PSP03/blob/tareas_psp04/TareaPSP04/capturas/adivina.png)
 
-## Actividad 3.2
+## Actividad 4.2
 
-Para probar el funcionamiento de los programas de la segunda actividad he seguido los mismos pasos que en el punto anterior, utilizando las instrucciones correspondientes. Primero he comprobado que indica correctamente si el archivo solicitado por el usuario no existe en el servidor, como se puede apreciar a continuación: 
+Para probar el funcionamiento de los programas de la segunda actividad he seguido los mismos pasos que en el punto anterior, utilizando las instrucciones correspondientes. El resultado se puede apreciar a continuación: 
 
-![captura OrdenarNumeros](https://github.com/tfendo/PSP03/blob/master/capturas/archivo_error.png)
+![captura OrdenarNumeros](https://github.com/tfendo/PSP03/blob/tareas_psp04/TareaPSP04/capturas/archivo.png)
 
-Y por último hago la prueba solicitando uno de los archivos que sí existe en el servidor:
+## Actividad 4.3
+Para probar el funcionamiento de las aplicaciones he abierto el programa servidor en una ventana del terminal y el programa cliente en otras dos ventanas, para verificar que pueden interactuar con el servidor de forma concurrente. El resultado de las pruebas se puede observar en la siguiente captura: 
 
-![captura OrdenarNumeros](https://github.com/tfendo/PSP03/blob/master/capturas/archivo.png)
+![captura OrdenarNumeros](https://github.com/tfendo/PSP03/blob/tareas_psp04/TareaPSP04/capturas/inicio_sesion.png)
+
+El archivo que contiene el diagrama de estados del servidor está dentro de la carpeta de dicha aplicación.
